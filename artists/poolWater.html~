@@ -1,0 +1,39 @@
+<!DOCTYPE=html>
+<html lang="en">
+  <head>
+    <meta charset=UTF-8>
+    <title>Duck's Back - PoolWater</title>
+    <link rel="stylesheet" type="text/css" href="style.css"></link>
+  </head>
+  
+  <body>
+    <div id="titleBox"><a href="index.html" style="text-decoration:none;color:black;">Duck's Back Records</a></div>
+    <div class="fundamentalSiteBox">
+      <div class="fundamentalSiteTitle">
+	About PoolWater
+      </div>
+      <div class="fundamentalSiteText">
+	Wake up human for food at 4am scratch leg; meow for can opener to feed me or stick butt in face, shake treat bag, meowwww kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff i like big cats and i can not lie. Lick sellotape. Roll on the floor purring your whiskers off eat from dog's food stare out the window, for hiss at vacuum cleaner and spit up on light gray carpet instead of adjacent linoleum stare at ceiling light.
+      </div>
+      <div class="fundamentalSiteTitle">
+	Tunes
+      </div>
+      <!--<a href="http://soundcloud.com/pool-water-1/tracks"><img src="media/images/soundcloud.png" style="margin-left:auto;margin-right:auto;"></a>-->
+      <div class="fundamentalSiteText" style="margin-bottom:30px;">
+	Meow tuxedo cats always looking dapper, need to chase tail fall over dead (not really but gets sypathy) or massacre a bird in the living room and then look like the cutest and most innocent animal on the planet yet scamper ears back wide eyed. Walk on car leaving trail of paw prints on hood and windshield. The dog smells bad under the bed attack the dog then pretend like nothing happened ears back wide eyed but scratch at the door then walk away. 
+      </div>
+      <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/242893764&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+    </div>
+    
+    <!-- ABSOLUTE POSITIONING ITEMS -->
+    <div id="hamburgerContainer">
+      <img tabindex="0" id="hamburgerImg" src="media/images/hamburger.png">
+      <div id="hamburger">
+	<a href="about.html" style="text-decoration:none;"><div class="navBtnHamburger">About</div></a>
+	<a href="artists.html"><div class="navBtnHamburger">Artists</div></a>
+	<a href="contact.html" style="text-decoration:none;"><div class="navBtnHamburger">Contact</div></a>
+      </div>
+    </div>
+    <!-- END ABSOLUTE POSITIONING ITEMS -->
+  </body>
+</html>
